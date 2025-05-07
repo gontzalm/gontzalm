@@ -17,12 +17,13 @@ I'm enthusiastic about collaborating on open source projects. Recent contributio
 
 ## 🌱 Currently Learning
 
-- CI/CD
-- DuckDB
+- 💚 Nushell
+- 🌩️ CI/CD
+- 🦆 DuckDB
 
 ## ⚽️ Hobbies
 
-- Padel
-- Snowboard
-- Paddle Surf
-- Trekking
+- 🎾 Padel
+- 🏂 Snowboard
+- 🏄 Paddle Surf
+- 🥾 Trekking
